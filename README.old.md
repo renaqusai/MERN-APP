@@ -1,2 +1,0 @@
-# MERN-APP
-final project
